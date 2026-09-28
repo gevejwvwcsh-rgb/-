@@ -1,0 +1,6 @@
+{
+  "name": "HAMO ALMBRMJ",
+  "description": "متجر للأدوات الصحية والسباكة — جملة وقطاعي 𝑯𝑨𝑴𝑶 𝑨𝑳𝑴𝑩𝑹𝑴𝑱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
